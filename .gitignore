@@ -1,1 +1,4 @@
 My Spotify/data
+
+# ignore all checkpoint files
+*-checkpoint.ipynb
